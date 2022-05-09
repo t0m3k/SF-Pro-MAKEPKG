@@ -1,5 +1,3 @@
-# Maintainer: Nico <d3sox at protonmail dot com>
-# Contributor: Harry Beadle <harrybeadle@protonmail.com>
 pkgname=otf-san-francisco-pro
 pkgver=1
 pkgrel=1
